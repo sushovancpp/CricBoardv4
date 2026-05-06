@@ -1,0 +1,26 @@
+# Ignore sensitive API configs
+Config.java
+# Gradle files
+.gradle/
+/build/
+/app/build/
+
+# Local configuration file (contains your computer's specific paths)
+local.properties
+
+# IntelliJ / Android Studio IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Keystore files (never commit your signing keys!)
+*.jks
+*.keystore
