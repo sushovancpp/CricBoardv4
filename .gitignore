@@ -12,7 +12,7 @@ local.properties
 .idea/
 *.iml
 *.iws
-*.ipr
+*.ipr 
 
 # OS specific files 
 .DS_Store
