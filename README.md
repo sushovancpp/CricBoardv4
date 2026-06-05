@@ -4,7 +4,7 @@ A **fully offline** local cricket tournament scorer for Android, built with Java
 No internet needed. All match data stored on-device.
 
 --- 
-
+ 
 ## ✨ Features
 
 | Feature | Details |
