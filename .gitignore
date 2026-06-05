@@ -14,7 +14,7 @@ local.properties
 *.iws
 *.ipr
 
-# OS specific files
+# OS specific files 
 .DS_Store
 Thumbs.db
 
